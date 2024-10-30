@@ -1,0 +1,7 @@
+/*
+Plugin Name: XML Sitemap генератор
+Plugin URI: https://plugin.iksweb.ru/wprdpress/
+Author: Сергей Князев
+*/
+#toplevel_page_iks-sitemap div.wp-menu-image:before{content:"\f124"}
+#toplevel_page_iks-sitemap a[href="admin.php?page=iks-pro-sitemap"] { font-weight: bold; color: #00ff08; }
